@@ -1,6 +1,6 @@
 import Container from "@/components/Common/ContainerCommon";
 import ImageCommon from "@/components/Common/ImageCommon";
-import LinkCommon from "@/components/common/LinkCommon";
+import LinkCommon from "@/components/Common/LinkCommon";
 import SlidMeuCommon from "@/components/Common/SlidMeuCommon";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
